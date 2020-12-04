@@ -1,0 +1,24 @@
+.navbar-light .navbar-brand {
+    color: white;
+}
+.navbar-brand {
+    background-color: teal;
+}
+
+.About-Me {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+#About-Me {
+    background-color: lightcoral;
+    margin-top: 40px;
+    margin-bottom:10px;
+    margin-right: 50px;
+    margin-left: -40px
+}
+
+
+
