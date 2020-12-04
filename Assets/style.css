@@ -4,6 +4,13 @@
 .navbar-brand {
     background-color: teal;
 }
+.background-image {
+    background-image: url("./images/ignasi_pattern_s.png");
+    background-position: center;
+    position: relative;
+    background-size: cover;
+
+}
 
 .About-Me {
     margin: auto;
