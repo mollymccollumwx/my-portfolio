@@ -1,26 +1,31 @@
+body {
+    background-image: url("./images/ignasi_pattern_s.png");
+}
+
+hr {
+    border: 1px grey;
+}
+
 .navbar-light .navbar-brand {
     color: white;
 }
 .navbar-brand {
     background-color: teal;
-}
-.background-image {
-    background-image: url("./images/ignasi_pattern_s.png");
-    background-position: center;
-    position: relative;
-    background-size: cover;
-
+    font-weight: bold;
 }
 
-.About-Me {
+
+
+.about-me {
+    color: teal;
     margin: auto;
     margin-top: 10px;
     margin-bottom: 10px;
     font-weight: bold;
 }
 
-#About-Me {
-    background-color: lightcoral;
+#about-me {
+    background-color: white;
     margin-top: 40px;
     margin-bottom:10px;
     margin-right: 50px;
