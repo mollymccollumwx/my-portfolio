@@ -1,9 +1,6 @@
 body {
     background-image: url("./images/ignasi_pattern_s.png");
-}
-
-hr {
-    border: 1px grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .navbar-light .navbar-brand {
@@ -13,8 +10,6 @@ hr {
     background-color: teal;
     font-weight: bold;
 }
-
-
 
 .about-me {
     color: teal;
