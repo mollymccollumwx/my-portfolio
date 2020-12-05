@@ -11,6 +11,10 @@ h1 {
     font-weight: bold;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+/*images */
+img {
+    width: 100%;
+}
 
 /*Nav bar */
 .navbar-light .navbar-brand {
@@ -28,14 +32,19 @@ h1 {
    
 }
 
+/*Contact Form */
 #button {
     background-color: rgb(9, 168, 160);
     color: white;
     border-radius: 0;
     padding: 15px;
 }
-.contact-form {
-    width: 100%;
+
+
+
+/*About Me Image */
+#profile-pic {
+    width: auto;
 }
 
 
