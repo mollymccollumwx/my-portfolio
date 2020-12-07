@@ -2,7 +2,7 @@
 This project created a basic portfolio with three pages: About, Contact, and Portfolio. HTML and Bootstrap CSS Framework were used to create a responsive webpage. The requirements for this webpage included:
    
    - A consistent navigation bar with functioning links and responsive design 
-   - Responsive image and layout
+   - Responsive images and layout that pass checkpoints at 900px, 768px, and 400px 
    - Semantic HTML
    - Personalized information
    - Proper utilization of Bootstrap and the grid system
