@@ -39,14 +39,19 @@ img {
   padding: 15px;
 }
 
-/*About Me Image */
+/*About Me Image*/ 
 #profile-pic {
-  width: auto;
+
+  height: 250x;
+  width: 200px;
 }
+
+/* Porfolio Images*/
+
 
 /*footer*/
 .footer {
-  background-color: rgb(112, 112, 112);
+  background-color: rgb(150, 149, 149);
   color: white;
   border-top: solid rgb(9, 168, 160) 5px;
   bottom: 0;
