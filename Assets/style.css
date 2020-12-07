@@ -2,6 +2,7 @@
 body {
   background-image: url("./images/ignasi_pattern_s.png");
 }
+
 /*Header */
 h1 {
   color: rgb(9, 168, 160);
@@ -11,12 +12,12 @@ h1 {
   font-weight: bold;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
-/*images */
+/*Portfolio Images */
 img {
   width: 100%;
 }
 
-/*Nav bar */
+/*Navigation Bar */
 .navbar-light .navbar-brand {
   color: white;
 }
@@ -26,9 +27,18 @@ img {
   font-family: Georgia, "Times New Roman", Times, serif;
 }
 
-/*content container */
+/*content container color*/
 .white-background {
   background-color: white;
+}
+
+/*footer*/
+.footer {
+  background-color: rgb(150, 149, 149);
+  color: white;
+  border-top: solid rgb(9, 168, 160) 5px;
+  bottom: 0;
+  width: 100%;
 }
 
 /*Contact Form Submit Button */
@@ -41,24 +51,11 @@ img {
 
 /*About Me Image*/ 
 #profile-pic {
-
   height: auto;
   width: 200px;
 }
 
-/* Porfolio Images*/
-
-
-/*footer*/
-.footer {
-  background-color: rgb(150, 149, 149);
-  color: white;
-  border-top: solid rgb(9, 168, 160) 5px;
-  margin-top: 10px;
-  bottom: 0;
-  width: 100%;
-}
-
+/*media query for about me picture */
  @media screen and (max-width: 418px) {
   #profile-pic {
     width: 90%;
