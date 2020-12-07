@@ -11,12 +11,22 @@ This project created a basic portfolio with three pages: About, Contact, and Por
 ## Installation
 
 ---
-The code for this webpage can be found at [Github](https://github.com/mollymccollumwx/my-portfolio). The [deployed website](https://mollymccollumwx.github.io/my-portfolio/) is features a simple, responsive design. 
+The code for this webpage can be found at [Github](https://github.com/mollymccollumwx/my-portfolio). The [deployed website](https://mollymccollumwx.github.io/my-portfolio/) is features a simple yet responsive design. 
 
 ## Usage
 
 ---
-screenshots go here
+When the webpage is first opened, the user is greeted by an "About Me" introduction:
+
+![About Me](./assets/images/AboutMe-README.png)
+
+The user will be able to toggle between pages using the navigation bar in the top right corner of the screen. On the contact page, the user will find a contact form to fill out:
+
+![Contact Form](./assets/images/Contact-README.png)
+
+Finally, to find examples of work and projects complete, the user can access the Portfolio page through the navigation bar:
+
+![Portfolio Page](./assets/images/Portfolio-README.png)
 
 ## Credits
 
