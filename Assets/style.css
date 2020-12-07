@@ -42,7 +42,7 @@ img {
 /*About Me Image*/ 
 #profile-pic {
 
-  height: 250x;
+  height: auto;
   width: 200px;
 }
 
@@ -54,6 +54,13 @@ img {
   background-color: rgb(150, 149, 149);
   color: white;
   border-top: solid rgb(9, 168, 160) 5px;
+  margin-top: 10px;
   bottom: 0;
   width: 100%;
 }
+
+ @media screen and (max-width: 418px) {
+  #profile-pic {
+    width: 90%;
+  }
+} 
