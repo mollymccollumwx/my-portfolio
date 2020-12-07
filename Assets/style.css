@@ -1,50 +1,54 @@
 /*background image */
 body {
-    background-image: url("./images/ignasi_pattern_s.png");
+  background-image: url("./images/ignasi_pattern_s.png");
 }
 /*Header */
 h1 {
-    color:rgb(9, 168, 160);
-    margin: auto;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    font-weight: bold;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgb(9, 168, 160);
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 /*images */
 img {
-    width: 100%;
+  width: 100%;
 }
 
 /*Nav bar */
 .navbar-light .navbar-brand {
-    color: white;
+  color: white;
 }
 .navbar-brand {
-    background-color:rgb(9, 168, 160);
-    font-weight: bold;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: rgb(9, 168, 160);
+  font-weight: bold;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 /*content container */
-.white-background{
-    background-color: white;
-   
+.white-background {
+  background-color: white;
 }
 
-/*Contact Form */
+/*Contact Form Submit Button */
 #button {
-    background-color: rgb(9, 168, 160);
-    color: white;
-    border-radius: 0;
-    padding: 15px;
+  background-color: rgb(9, 168, 160);
+  color: white;
+  border-radius: 0;
+  padding: 15px;
 }
-
-
 
 /*About Me Image */
 #profile-pic {
-    width: auto;
+  width: auto;
 }
 
-
+/*footer*/
+.footer {
+  background-color: rgb(112, 112, 112);
+  color: white;
+  border-top: solid rgb(9, 168, 160) 5px;
+  bottom: 0;
+  width: 100%;
+}
