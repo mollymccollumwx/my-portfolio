@@ -22,11 +22,11 @@ When the webpage is first opened, the user is greeted by an "About Me" introduct
 
 The user will be able to toggle between pages using the navigation bar in the top right corner of the screen. On the contact page, the user will find a contact form to fill out:
 
-![Contact Form](.Assets/images/Contact-README.png)
+![Contact Form](./Assets/images/Contact-README.png)
 
 Finally, to find examples of work and projects complete, the user can access the Portfolio page through the navigation bar:
 
-![Portfolio Page](.Assets/images/Portfolio-README.png)
+![Portfolio Page](./Assets/images/Portfolio-README.png)
 
 ## Credits
 
